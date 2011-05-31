@@ -1,0 +1,77 @@
+10
+
+dir
+1
+svn+ssh://administrador@192.168.1.101/opt/pac2/subversion
+svn+ssh://administrador@192.168.1.101/opt/pac2/subversion
+
+
+
+2011-05-02T18:12:19.682675Z
+1
+administrador
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ce9eee4c-2ffb-4422-b809-cf12b809c5a0
+
+build
+dir
+
+dist
+dir
+
+nbproject
+dir
+
+src
+dir
+
+web
+dir
+
+build.xml
+file
+
+
+
+
+2011-05-02T18:16:01.249748Z
+267165a7ae0db962c818f8ab540b7fe4
+2011-05-02T18:12:19.682675Z
+1
+administrador
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3440
+

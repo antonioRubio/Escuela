@@ -1,0 +1,5 @@
+deploy.ant.properties.file=/home/administrador/.netbeans/7.0/tomcat70.properties
+j2ee.server.domain=/home/administrador/.netbeans/7.0/apache-tomcat-7.0.11_base
+j2ee.server.home=/opt/tomcat7
+j2ee.server.instance=tomcat70:home=/opt/tomcat7:base=apache-tomcat-7.0.11_base
+user.properties.file=/home/administrador/.netbeans/7.0/build.properties
